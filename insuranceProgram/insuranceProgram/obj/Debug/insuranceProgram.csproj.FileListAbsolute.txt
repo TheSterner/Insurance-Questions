@@ -1,0 +1,7 @@
+C:\Users\Blake\source\repos\insuranceProgram\insuranceProgram\obj\Debug\insuranceProgram.csprojAssemblyReference.cache
+C:\Users\Blake\source\repos\insuranceProgram\insuranceProgram\obj\Debug\insuranceProgram.csproj.CoreCompileInputs.cache
+C:\Users\Blake\source\repos\insuranceProgram\insuranceProgram\bin\Debug\insuranceProgram.exe.config
+C:\Users\Blake\source\repos\insuranceProgram\insuranceProgram\bin\Debug\insuranceProgram.exe
+C:\Users\Blake\source\repos\insuranceProgram\insuranceProgram\bin\Debug\insuranceProgram.pdb
+C:\Users\Blake\source\repos\insuranceProgram\insuranceProgram\obj\Debug\insuranceProgram.exe
+C:\Users\Blake\source\repos\insuranceProgram\insuranceProgram\obj\Debug\insuranceProgram.pdb
